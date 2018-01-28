@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oaup-admin-backend-api" />
+        <module name="oaup-admin-backend-dao" />
+        <module name="oaup-admin-backend-facade" />
+        <module name="oaup-admin-backend-integration" />
+        <module name="oaup-admin-backend-service" />
+        <module name="oaup-admin-backend-support" />
+        <module name="oaup-admin-backend-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oaup-admin-backend" target="1.8" />
+      <module name="oaup-admin-backend-api" target="1.8" />
+      <module name="oaup-admin-backend-dao" target="1.8" />
+      <module name="oaup-admin-backend-facade" target="1.8" />
+      <module name="oaup-admin-backend-integration" target="1.8" />
+      <module name="oaup-admin-backend-service" target="1.8" />
+      <module name="oaup-admin-backend-support" target="1.8" />
+      <module name="oaup-admin-backend-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+[INFO] [2018-01-28T20:16:12,120] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [] The following profiles are active: develop
+[INFO] [2018-01-28T20:16:12,139] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [] SpringContext load success!
+[INFO] [2018-01-28T20:21:33,595] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [] The following profiles are active: develop
+[INFO] [2018-01-28T20:21:33,618] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [] SpringContext load success!
+[INFO] [2018-01-28T20:21:38,123] [org.xnio] [main] [] [] [2.0.1.35] XNIO version 3.3.6.Final
+[INFO] [2018-01-28T20:21:38,145] [org.xnio.nio] [main] [] [] [2.0.1.35] XNIO NIO Implementation Version 3.3.6.Final
+[INFO] [2018-01-28T20:21:49,052] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [main] [] [] [2.0.1.35] zookeeper established connection successful
+[INFO] [2018-01-28T20:21:49,055] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [Curator-ConnectionStateManager-0] [] [] [] zk client connection state changed: CONNECTED
+[INFO] [2018-01-28T20:21:49,344] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [Curator-ConnectionStateManager-0] [] [] [] create path :/service-status/oaup-admin-backend-dev/oaup-admin-backend/2.0/2.0.1.35:8080 , result :/service-status/oaup-admin-backend-dev/oaup-admin-backend/2.0/2.0.1.35:8080-0000000000
+[INFO] [2018-01-28T20:21:53,404] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [2.0.1.35] SpringContext load success!
+[INFO] [2018-01-28T20:21:53,521] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [2.0.1.35] Started AdminStart in 21.368 seconds (JVM running for 23.725)

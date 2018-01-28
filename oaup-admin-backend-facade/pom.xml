@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.oaup.admin.backend</groupId>
+		<artifactId>oaup-admin-backend</artifactId>
+		<version>1.0-SNAPSHOT</version>
+		<relativePath>../pom.xml</relativePath>
+	</parent>
+
+	<artifactId>oaup-admin-backend-facade</artifactId>
+	<packaging>jar</packaging>
+	<name>oaup-admin-backend-facade</name>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<facade.basedir>com/oaup/admin/backend/service/facade</facade.basedir>
+		<facade.model.basedir>com/oaup/admin/backend/support/model/dto</facade.model.basedir>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.hujiang.basic.framework</groupId>
+			<artifactId>hujiang-framework-model</artifactId>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-antrun-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>package</id>
+						<phase>package</phase>
+						<goals>
+							<goal>run</goal>
+						</goals>
+						<configuration>
+							<target>
+								<echo
+									message="********************clean local *************************" />
+								<delete includeemptydirs="true" >
+									<fileset dir="src/main/java"  includes="**/*.java" />
+								</delete>
+								<echo
+									message="********************copy facade from biz*************************" />
+								<copy todir="src/main/java">
+									<fileset dir="../oaup-admin-backend-service/src/main/java">
+										<include name="${facade.basedir}/*.java" />
+									</fileset>
+								</copy>
+
+								<echo
+									message="********************copy dto from model*************************" />
+								<copy todir="src/main/java">
+									<fileset dir="../oaup-admin-backend-support/src/main/java">
+										<include name="${facade.model.basedir}/**/*.java" />
+									</fileset>
+								</copy>
+							</target>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+</project>
