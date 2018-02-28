@@ -9,3 +9,46 @@
 [INFO] [2018-01-28T20:21:49,344] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [Curator-ConnectionStateManager-0] [] [] [] create path :/service-status/oaup-admin-backend-dev/oaup-admin-backend/2.0/2.0.1.35:8080 , result :/service-status/oaup-admin-backend-dev/oaup-admin-backend/2.0/2.0.1.35:8080-0000000000
 [INFO] [2018-01-28T20:21:53,404] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [2.0.1.35] SpringContext load success!
 [INFO] [2018-01-28T20:21:53,521] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [2.0.1.35] Started AdminStart in 21.368 seconds (JVM running for 23.725)
+[INFO] [2018-02-27T21:56:48,423] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [] The following profiles are active: develop
+[INFO] [2018-02-27T21:56:48,437] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [] SpringContext load success!
+[INFO] [2018-02-27T21:58:11,142] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [] The following profiles are active: develop
+[INFO] [2018-02-27T21:58:11,153] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [] SpringContext load success!
+[WARN] [2018-02-27T21:58:12,682] [org.mybatis.spring.mapper.ClassPathMapperScanner] [main] [] [] [] No MyBatis mapper was found in '[com.oaup.admin.backend.dao]' package. Please check your configuration.
+[INFO] [2018-02-27T21:58:14,200] [org.xnio] [main] [] [] [192.168.1.5] XNIO version 3.3.6.Final
+[INFO] [2018-02-27T21:58:14,220] [org.xnio.nio] [main] [] [] [192.168.1.5] XNIO NIO Implementation Version 3.3.6.Final
+[INFO] [2018-02-27T21:58:25,490] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [main] [] [] [192.168.1.5] zookeeper established connection successful
+[INFO] [2018-02-27T21:58:28,606] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [192.168.1.5] SpringContext load success!
+[INFO] [2018-02-27T21:58:28,671] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [192.168.1.5] Started AdminStart in 18.77 seconds (JVM running for 20.273)
+[INFO] [2018-02-27T21:59:56,371] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-1] [] [24ba586a255c4416b54317d03ea0c3f5] [192.168.1.5] access url [/backend/login], cost time [157] ms )
+[INFO] [2018-02-27T22:00:08,652] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-3] [] [50a056473e3c4ed29088723f8ce391ab] [192.168.1.5] access url [/backend/login], cost time [4] ms )
+[INFO] [2018-02-27T22:00:41,355] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-4] [] [47780c1ee735424aa379fba03b8cc862] [192.168.1.5] access url [/backend/login], cost time [2] ms )
+[INFO] [2018-02-27T22:00:43,851] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-6] [] [60f66a24badf432fadf5176c82332180] [192.168.1.5] access url [/backend/login], cost time [1] ms )
+[INFO] [2018-02-27T22:00:51,236] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-8] [] [db3685461dd04de6a06abef339e6574f] [192.168.1.5] access url [/backend/login], cost time [2] ms )
+[INFO] [2018-02-27T22:03:52,630] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-9] [] [85153e242dd843af81d936869b4140d7] [192.168.1.5] access url [/backend/login], cost time [162209] ms )
+[INFO] [2018-02-27T22:05:23,390] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [] The following profiles are active: develop
+[INFO] [2018-02-27T22:05:23,401] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [] SpringContext load success!
+[WARN] [2018-02-27T22:05:24,818] [org.mybatis.spring.mapper.ClassPathMapperScanner] [main] [] [] [] No MyBatis mapper was found in '[com.oaup.admin.backend.dao]' package. Please check your configuration.
+[INFO] [2018-02-27T22:05:26,019] [org.xnio] [main] [] [] [192.168.1.5] XNIO version 3.3.6.Final
+[INFO] [2018-02-27T22:05:26,049] [org.xnio.nio] [main] [] [] [192.168.1.5] XNIO NIO Implementation Version 3.3.6.Final
+[INFO] [2018-02-27T22:05:36,617] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [main] [] [] [192.168.1.5] zookeeper established connection successful
+[INFO] [2018-02-27T22:05:39,846] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [192.168.1.5] SpringContext load success!
+[INFO] [2018-02-27T22:05:39,899] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [192.168.1.5] Started AdminStart in 17.576 seconds (JVM running for 19.017)
+[INFO] [2018-02-27T22:06:01,991] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-1] [] [ce215294e65144ad899e4674526c10b0] [192.168.1.5] access url [/backend/login], cost time [165] ms )
+[INFO] [2018-02-27T22:11:36,514] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [] The following profiles are active: develop
+[INFO] [2018-02-27T22:11:36,525] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [] SpringContext load success!
+[WARN] [2018-02-27T22:11:37,993] [org.mybatis.spring.mapper.ClassPathMapperScanner] [main] [] [] [] No MyBatis mapper was found in '[com.oaup.admin.backend.dao]' package. Please check your configuration.
+[INFO] [2018-02-27T22:11:39,292] [org.xnio] [main] [] [] [192.168.1.5] XNIO version 3.3.6.Final
+[INFO] [2018-02-27T22:11:39,304] [org.xnio.nio] [main] [] [] [192.168.1.5] XNIO NIO Implementation Version 3.3.6.Final
+[INFO] [2018-02-27T22:11:49,827] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [main] [] [] [192.168.1.5] zookeeper established connection successful
+[INFO] [2018-02-27T22:11:52,874] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [192.168.1.5] SpringContext load success!
+[INFO] [2018-02-27T22:11:52,919] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [192.168.1.5] Started AdminStart in 17.444 seconds (JVM running for 18.86)
+[INFO] [2018-02-27T22:12:04,481] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-1] [] [a5c3ff64672f40089918b6ee2dd0412a] [192.168.1.5] access url [/backend/login], cost time [159] ms )
+[INFO] [2018-02-27T22:51:53,095] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [] The following profiles are active: develop
+[INFO] [2018-02-27T22:51:53,109] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [] SpringContext load success!
+[WARN] [2018-02-27T22:51:56,016] [org.mybatis.spring.mapper.ClassPathMapperScanner] [main] [] [] [] No MyBatis mapper was found in '[com.oaup.admin.backend.dao]' package. Please check your configuration.
+[INFO] [2018-02-27T22:51:57,859] [org.xnio] [main] [] [] [192.168.1.5] XNIO version 3.3.6.Final
+[INFO] [2018-02-27T22:51:57,954] [org.xnio.nio] [main] [] [] [192.168.1.5] XNIO NIO Implementation Version 3.3.6.Final
+[INFO] [2018-02-27T22:52:10,125] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [main] [] [] [192.168.1.5] zookeeper established connection successful
+[INFO] [2018-02-27T22:52:14,847] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [192.168.1.5] SpringContext load success!
+[INFO] [2018-02-27T22:52:14,970] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [192.168.1.5] Started AdminStart in 23.654 seconds (JVM running for 25.147)
+[INFO] [2018-02-27T22:52:26,983] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-1] [] [377a321b55ca4c16abfd780aef30af3f] [192.168.1.5] access url [/backend/login], cost time [159] ms )
