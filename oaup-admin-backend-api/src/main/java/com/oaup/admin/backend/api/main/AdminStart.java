@@ -7,7 +7,7 @@ import com.hujiang.basic.framework.rest.config.service.HJundertow;
 import com.hujiang.basic.framework.rest.main.HJApplication;
 import org.springframework.scheduling.annotation.EnableAsync;
 
-@SpringBootApplication(scanBasePackages="com.oaup.admin.backend")
+@SpringBootApplication(scanBasePackages="com.oaup.admin")
 @HJundertow
 @Slf4j
 @EnableAsync

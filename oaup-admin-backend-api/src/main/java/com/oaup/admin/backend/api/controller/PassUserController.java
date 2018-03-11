@@ -17,7 +17,6 @@ public class PassUserController {
 
 
     @RequestMapping(value = "login", method = RequestMethod.GET)
-    @ResponseBody
     public ModelAndView doLogin(HttpServletRequest req,Model model) {
         ModelAndView modelAndView = new ModelAndView();
         modelAndView.setViewName("user/admin_login");

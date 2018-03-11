@@ -8,7 +8,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 public class WebMvcConfig extends WebMvcConfigurerAdapter {
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
-        registry.addResourceHandler("/backend/**").addResourceLocations("classpath:/webapp/backend/");
+        registry.addResourceHandler("/backend/**")
+                .addResourceLocations("classpath:/webapp/backend/");
         super.addResourceHandlers(registry);
     }
 }
