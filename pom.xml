@@ -1,193 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.oaup.admin.backend</groupId>
-	<artifactId>oaup-admin-backend</artifactId>
-	<version>1.0-SNAPSHOT</version>
-	<packaging>pom</packaging>
-	<name>oaup-admin-backend</name>
-	<url>http://maven.apache.org</url>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.oaup.admin.backend</groupId>
+    <artifactId>oaup-admin-backend</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>oaup-admin-backend</name>
+    <url>http://maven.apache.org</url>
 
-	<parent>
-		<artifactId>hujiang-framework</artifactId>
-		<groupId>com.hujiang.basic.framework</groupId>
-		<version>2.1.1.2-RELEASE</version>
-	</parent>
+    <parent>
+        <artifactId>hujiang-framework</artifactId>
+        <groupId>com.hujiang.basic.framework</groupId>
+        <version>2.1.1.2-RELEASE</version>
+    </parent>
 
-	<distributionManagement>
-		<repository>
-			<id>releases</id>
-			<url>http://nexus.yeshj.com/nexus/content/repositories/releases</url>
-		</repository>
-		<snapshotRepository>
-			<id>snapshots</id>
-			<url>http://nexus.yeshj.com/nexus/content/repositories/snapshots</url>
-		</snapshotRepository>
-	</distributionManagement>
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <url>http://nexus.yeshj.com/nexus/content/repositories/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <url>http://nexus.yeshj.com/nexus/content/repositories/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
 
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<hujiang-framework-rest.version>2.0.1-RELEASE</hujiang-framework-rest.version>
-		<hujiang-framework-model.version>2.0.1-RELEASE</hujiang-framework-model.version>
-		<hujiang-framework-plugin.version>2.0.1-RELEASE</hujiang-framework-plugin.version>
-		<hujiang-framework-plugin-swagger.version>2.0.1-RELEASE</hujiang-framework-plugin-swagger.version>
-		<hujiang-framework-plugin-selfcheck.version>2.0.1-RELEASE</hujiang-framework-plugin-selfcheck.version>
-		<hujiang-framework-plugin-zk.version>2.0.1-RELEASE</hujiang-framework-plugin-zk.version>
-		<sqljdbc4.version>4.0</sqljdbc4.version>
-		<mysql-connector-java.version>5.1.37</mysql-connector-java.version>
-		<spring.boot.version>1.4.2.RELEASE</spring.boot.version>
-		<argLine>-Xmx1G</argLine>
-	</properties>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <hujiang-framework-rest.version>2.0.1-RELEASE</hujiang-framework-rest.version>
+        <hujiang-framework-model.version>2.0.1-RELEASE</hujiang-framework-model.version>
+        <hujiang-framework-plugin.version>2.0.1-RELEASE</hujiang-framework-plugin.version>
+        <hujiang-framework-plugin-swagger.version>2.0.1-RELEASE</hujiang-framework-plugin-swagger.version>
+        <hujiang-framework-plugin-selfcheck.version>2.0.1-RELEASE</hujiang-framework-plugin-selfcheck.version>
+        <hujiang-framework-plugin-zk.version>2.0.1-RELEASE</hujiang-framework-plugin-zk.version>
+        <sqljdbc4.version>4.0</sqljdbc4.version>
+        <mysql-connector-java.version>5.1.37</mysql-connector-java.version>
+        <spring.boot.version>1.4.5.RELEASE</spring.boot.version>
+        <argLine>-Xmx1G</argLine>
+    </properties>
 
-	<dependencyManagement>
-		<dependencies>
-			<dependency>
-				<groupId>com.oaup.admin.backend</groupId>
-				<artifactId>oaup-admin-backend-api</artifactId>
-				<version>1.0-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>com.oaup.admin.backend</groupId>
-				<artifactId>oaup-admin-backend-service</artifactId>
-				<version>1.0-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>com.oaup.admin.backend</groupId>
-				<artifactId>oaup-admin-backend-dao</artifactId>
-				<version>1.0-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>com.oaup.admin.backend</groupId>
-				<artifactId>oaup-admin-backend-support</artifactId>
-				<version>1.0-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>com.oaup.admin.backend</groupId>
-				<artifactId>oaup-admin-backend-test</artifactId>
-				<version>1.0-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>com.oaup.admin.backend</groupId>
-				<artifactId>oaup-admin-backend-facade</artifactId>
-				<version>1.0-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>com.oaup.admin.backend</groupId>
-				<artifactId>oaup-admin-backend-integration</artifactId>
-				<version>1.0-SNAPSHOT</version>
-			</dependency>
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.oaup.admin.backend</groupId>
+                <artifactId>oaup-admin-backend-api</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.oaup.admin.backend</groupId>
+                <artifactId>oaup-admin-backend-service</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.oaup.admin.backend</groupId>
+                <artifactId>oaup-admin-backend-dao</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.oaup.admin.backend</groupId>
+                <artifactId>oaup-admin-backend-support</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.oaup.admin.backend</groupId>
+                <artifactId>oaup-admin-backend-test</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.oaup.admin.backend</groupId>
+                <artifactId>oaup-admin-backend-facade</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.oaup.admin.backend</groupId>
+                <artifactId>oaup-admin-backend-integration</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
 
-			<dependency>
-				<groupId>com.hujiang.basic.framework</groupId>
-				<artifactId>hujiang-framework-rest</artifactId>
-				<version>${hujiang-framework-rest.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>com.hujiang.basic.framework</groupId>
-				<artifactId>hujiang-framework-model</artifactId>
-				<version>${hujiang-framework-model.version}</version>
-			</dependency>
+            <dependency>
+                <groupId>com.hujiang.basic.framework</groupId>
+                <artifactId>hujiang-framework-rest</artifactId>
+                <version>${hujiang-framework-rest.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.hujiang.basic.framework</groupId>
+                <artifactId>hujiang-framework-model</artifactId>
+                <version>${hujiang-framework-model.version}</version>
+            </dependency>
 
-			<dependency>
-				<groupId>com.hujiang.basic.framework</groupId>
-				<artifactId>hujiang-framework-plugin-swagger</artifactId>
-				<version>${hujiang-framework-plugin-swagger.version}</version>
-			</dependency>
+            <dependency>
+                <groupId>com.hujiang.basic.framework</groupId>
+                <artifactId>hujiang-framework-plugin-swagger</artifactId>
+                <version>${hujiang-framework-plugin-swagger.version}</version>
+            </dependency>
 
-			<dependency>
-				<groupId>com.hujiang.basic.framework</groupId>
-				<artifactId>hujiang-framework-plugin-selfcheck</artifactId>
-				<version>${hujiang-framework-plugin-selfcheck.version}</version>
-			</dependency>
+            <dependency>
+                <groupId>com.hujiang.basic.framework</groupId>
+                <artifactId>hujiang-framework-plugin-selfcheck</artifactId>
+                <version>${hujiang-framework-plugin-selfcheck.version}</version>
+            </dependency>
 
-			<dependency>
-				<groupId>com.hujiang.basic.framework</groupId>
-				<artifactId>hujiang-framework-plugin-zk</artifactId>
-				<version>${hujiang-framework-plugin-zk.version}</version>
-			</dependency>
+            <dependency>
+                <groupId>com.hujiang.basic.framework</groupId>
+                <artifactId>hujiang-framework-plugin-zk</artifactId>
+                <version>${hujiang-framework-plugin-zk.version}</version>
+            </dependency>
 
-			<dependency>
-				<groupId>mysql</groupId>
-				<artifactId>mysql-connector-java</artifactId>
-				<version>${mysql-connector-java.version}</version><!--$NO-MVN-MAN-VER$ -->
-			</dependency>
+            <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>${mysql-connector-java.version}</version><!--$NO-MVN-MAN-VER$ -->
+            </dependency>
 
-			<dependency>
-				<groupId>com.microsoft.sqlserver</groupId>
-				<artifactId>sqljdbc4</artifactId>
-				<version>${sqljdbc4.version}</version>
-			</dependency>
-
-
-			<dependency>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-starter-web</artifactId>
-				<version>1.4.5.RELEASE</version>
-				<exclusions>
-					<exclusion>
-						<groupId>org.springframework.boot</groupId>
-						<artifactId>spring-boot-starter-logging</artifactId>
-					</exclusion>
-				</exclusions>
-			</dependency>
-
-			<dependency>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-starter-freemarker</artifactId>
-				<version>1.4.5.RELEASE</version>
-				<exclusions>
-					<exclusion>
-						<groupId>org.springframework.boot</groupId>
-						<artifactId>spring-boot-starter-logging</artifactId>
-					</exclusion>
-				</exclusions>
-			</dependency>
+            <dependency>
+                <groupId>com.microsoft.sqlserver</groupId>
+                <artifactId>sqljdbc4</artifactId>
+                <version>${sqljdbc4.version}</version>
+            </dependency>
 
 
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-web</artifactId>
+                <version>1.4.5.RELEASE</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>org.springframework.boot</groupId>
+                        <artifactId>spring-boot-starter-logging</artifactId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
 
-			<dependency>
-				<groupId>org.springframework</groupId>
-				<artifactId>spring-context-support</artifactId>
-				<version>4.3.7.RELEASE</version>
-			</dependency>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-freemarker</artifactId>
+                <version>1.4.5.RELEASE</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>org.springframework.boot</groupId>
+                        <artifactId>spring-boot-starter-logging</artifactId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
 
 
-
-			<dependency>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-starter-test</artifactId>
-				<version>${spring.boot.version}</version>
-				<exclusions>
-					<exclusion>
-						<groupId>org.springframework.boot</groupId>
-						<artifactId>spring-boot-starter-logging</artifactId>
-					</exclusion>
-				</exclusions>
-				<scope>test</scope>
-			</dependency>
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-context-support</artifactId>
+                <version>4.3.7.RELEASE</version>
+            </dependency>
 
 
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-test</artifactId>
+                <version>${spring.boot.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>org.springframework.boot</groupId>
+                        <artifactId>spring-boot-starter-logging</artifactId>
+                    </exclusion>
+                </exclusions>
+                <scope>test</scope>
+            </dependency>
 
-		</dependencies>
+
+        </dependencies>
     </dependencyManagement>
 
     <build>
-		<resources>
-			<resource>
-				<directory>src/main/resources</directory>
-				<filtering>false</filtering>
-				<excludes>
-					<exclude>webapp/admin/**</exclude>
-					<exclude>**/*.woff</exclude>
-					<exclude>**/*.ttf</exclude>
-					<exclude>**/*.eot</exclude>
-					<exclude>**/*.svg</exclude>
-				</excludes>
-				<includes>
-					<include>**</include>
-				</includes>
-			</resource>
-		</resources>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>false</filtering>
+                <excludes>
+                    <exclude>webapp/admin/**</exclude>
+                    <exclude>**/*.woff</exclude>
+                    <exclude>**/*.ttf</exclude>
+                    <exclude>**/*.eot</exclude>
+                    <exclude>**/*.svg</exclude>
+                </excludes>
+                <includes>
+                    <include>**</include>
+                </includes>
+            </resource>
+        </resources>
 
         <plugins>
             <plugin>
@@ -220,13 +218,13 @@
 
         </plugins>
     </build>
-  <modules>
-    <module>oaup-admin-backend-api</module>
-    <module>oaup-admin-backend-service</module>
-    <module>oaup-admin-backend-dao</module>
-    <module>oaup-admin-backend-facade</module>
-    <module>oaup-admin-backend-support</module>
-    <module>oaup-admin-backend-integration</module>
-    <module>oaup-admin-backend-test</module>
-  </modules>
+    <modules>
+        <module>oaup-admin-backend-api</module>
+        <module>oaup-admin-backend-service</module>
+        <module>oaup-admin-backend-dao</module>
+        <module>oaup-admin-backend-facade</module>
+        <module>oaup-admin-backend-support</module>
+        <module>oaup-admin-backend-integration</module>
+        <module>oaup-admin-backend-test</module>
+    </modules>
 </project>

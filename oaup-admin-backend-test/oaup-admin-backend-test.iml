@@ -136,7 +136,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:4.3.9.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.rabbitmq:http-client:1.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.rabbitmq:amqp-client:3.6.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:1.4.2.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:1.4.5.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:1.4.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:1.4.7.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:1.4.7.RELEASE" level="project" />

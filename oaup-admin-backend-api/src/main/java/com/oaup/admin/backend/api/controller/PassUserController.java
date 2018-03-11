@@ -1,4 +1,5 @@
 package com.oaup.admin.backend.api.controller;
+import com.hujiang.basic.framework.rest.model.DataResult;
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,13 +15,21 @@ import javax.servlet.http.HttpServletRequest;
 @RequestMapping(value = "/backend/")
 public class PassUserController {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(PassUserController.class);
 
     @RequestMapping(value = "login", method = RequestMethod.GET)
-    public ModelAndView doLogin() {
+    @ResponseBody
+    public ModelAndView doLogin(HttpServletRequest req,Model model) {
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("user/admin_login");
+        return modelAndView;
+    }
+
+    @RequestMapping(value = "login_do", method = RequestMethod.GET)
+    @ResponseBody
+    public DataResult<Integer> doLoginOption() {
         ModelAndView modelAndView = new ModelAndView();
         modelAndView.setViewName("login");
-        return modelAndView;
+        return DataResult.ok(0,"",12);
     }
 
 }
