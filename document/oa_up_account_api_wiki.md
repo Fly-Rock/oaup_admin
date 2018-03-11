@@ -5,6 +5,7 @@
 1.用户注册 
 url:/account
 request:
+```
 {
     "userName": "18515526908",
     "passWord": "88903Hiejj*&^45",
@@ -12,8 +13,10 @@ request:
     "mobile": "",
     "smsCode": ""
 }
+```
 
 response:
+```
 {
     "status": 0,
     "message": "OK",
@@ -29,17 +32,20 @@ response:
         "unionId": "e71d265c8b4e80255619f28022e4eacb"
     }
 }
-
+```
 2.登录：
 url:/authorize
 request:
+```
 {
     "account": "String",   //用户名、手机号或邮箱地址
     "passWord": "String",  //密码，md5加密，32位或16位
     "smsCode": "String",  //登录短信码,当使用手机号登录时该项为必填
     "loginType": 0       //登录类型:帐号登录 - 1000,短信登录 - 1001(不传默认1000)
 }
+```
 response:
+```
 {
     "status": 0,
     "message": "OK",
@@ -56,5 +62,5 @@ response:
         "unionId": "15a1db5219784ba82625c4beede0f99c"
     }
 }
-
+```
 
