@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com-oaup-admin-backend-webapi" />
         <module name="oaup-admin-backend-api" />
         <module name="oaup-admin-backend-dao" />
         <module name="oaup-admin-backend-facade" />
@@ -16,6 +17,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com-oaup-admin-backend-webapi" target="1.8" />
       <module name="oaup-admin-backend" target="1.8" />
       <module name="oaup-admin-backend-api" target="1.8" />
       <module name="oaup-admin-backend-dao" target="1.8" />

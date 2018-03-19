@@ -1416,3 +1416,21 @@ java.net.SocketTimeoutException: connect timed out
 [INFO] [2018-03-11T21:06:48,715] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [2.0.1.33] Started AdminStart in 16.03 seconds (JVM running for 17.281)
 [INFO] [2018-03-11T21:11:09,817] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-1] [] [8159ca5117e145f4be4de4f57a36d44f] [2.0.1.33] access url [/backend/user/admin_login], cost time [7] ms )
 [INFO] [2018-03-11T21:11:09,818] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-1] [] [] [] access url [/backend/login], cost time [157] ms )
+[INFO] [2018-03-11T21:23:29,679] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [] The following profiles are active: develop
+[INFO] [2018-03-11T21:23:29,691] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [] SpringContext load success!
+[WARN] [2018-03-11T21:23:31,265] [org.mybatis.spring.mapper.ClassPathMapperScanner] [main] [] [] [] No MyBatis mapper was found in '[com.oaup.admin.backend.dao]' package. Please check your configuration.
+[INFO] [2018-03-11T21:23:32,520] [org.xnio] [main] [] [] [2.0.1.33] XNIO version 3.3.6.Final
+[INFO] [2018-03-11T21:23:32,533] [org.xnio.nio] [main] [] [] [2.0.1.33] XNIO NIO Implementation Version 3.3.6.Final
+[INFO] [2018-03-11T21:23:40,725] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [main] [] [] [2.0.1.33] zookeeper established connection successful
+[INFO] [2018-03-11T21:23:40,727] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [Curator-ConnectionStateManager-0] [] [] [] zk client connection state changed: CONNECTED
+[INFO] [2018-03-11T21:23:40,766] [com.hujiang.basic.framework.plugin.zk.ZookeeperClient] [Curator-ConnectionStateManager-0] [] [] [] create path :/service-status/oaup-admin-backend-dev/oaup-admin-backend/2.0/2.0.1.33:8090 , result :/service-status/oaup-admin-backend-dev/oaup-admin-backend/2.0/2.0.1.33:8090-0000000005
+[INFO] [2018-03-11T21:23:43,802] [com.hujiang.basic.framework.core.config.SpringContextConfig] [main] [] [] [2.0.1.33] SpringContext load success!
+[INFO] [2018-03-11T21:23:43,846] [com.oaup.admin.backend.api.main.AdminStart] [main] [] [] [2.0.1.33] Started AdminStart in 15.213 seconds (JVM running for 16.774)
+[INFO] [2018-03-11T21:25:34,675] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-1] [] [fc4d706dce5e426398e7999da51530a5] [2.0.1.33] access url [/backend/user/admin_login], cost time [7] ms )
+[INFO] [2018-03-11T21:25:34,677] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-1] [] [] [] access url [/backend/login], cost time [156] ms )
+[INFO] [2018-03-11T21:25:36,262] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-3] [] [1921cbb57f6945c5a54a9c32ef91c74f] [2.0.1.33] access url [/backend/user/admin_login], cost time [1] ms )
+[INFO] [2018-03-11T21:25:36,262] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-3] [] [] [] access url [/backend/login], cost time [4] ms )
+[INFO] [2018-03-11T21:25:55,234] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-5] [] [3bfe12c1224f4f139a8d50eb100c6cda] [2.0.1.33] access url [/backend/user/admin_login], cost time [1] ms )
+[INFO] [2018-03-11T21:25:55,236] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-5] [] [] [] access url [/backend/login], cost time [6] ms )
+[INFO] [2018-03-11T21:26:01,604] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-7] [] [ea99dd73540d4c0eaaa97f4db81a2aa5] [2.0.1.33] access url [/backend/user/admin_login], cost time [1] ms )
+[INFO] [2018-03-11T21:26:01,604] [com.hujiang.basic.framework.rest.filter.RequestFilter] [XNIO-2 task-7] [] [] [] access url [/backend/login], cost time [3] ms )

@@ -34,10 +34,16 @@
         <hujiang-framework-plugin-swagger.version>2.0.1-RELEASE</hujiang-framework-plugin-swagger.version>
         <hujiang-framework-plugin-selfcheck.version>2.0.1-RELEASE</hujiang-framework-plugin-selfcheck.version>
         <hujiang-framework-plugin-zk.version>2.0.1-RELEASE</hujiang-framework-plugin-zk.version>
+
+
+        <!--解析xml-->
+        <jaxen.version>1.1.6</jaxen.version>
         <sqljdbc4.version>4.0</sqljdbc4.version>
         <mysql-connector-java.version>5.1.37</mysql-connector-java.version>
         <spring.boot.version>1.4.5.RELEASE</spring.boot.version>
+        <org.apache.poi>3.16</org.apache.poi>
         <argLine>-Xmx1G</argLine>
+
     </properties>
 
     <dependencyManagement>
@@ -238,5 +244,6 @@
         <module>oaup-admin-backend-support</module>
         <module>oaup-admin-backend-integration</module>
         <module>oaup-admin-backend-test</module>
+        <module>com-oaup-admin-backend-webapi</module>
     </modules>
 </project>
