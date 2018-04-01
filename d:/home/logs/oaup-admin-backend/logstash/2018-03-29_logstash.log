@@ -1,0 +1,497 @@
+[ERROR] [2018-03-29T00:31:35,957] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T00:31:37,287] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T00:31:38,438] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T00:31:39,578] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T00:31:40,697] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T00:31:41,810] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T00:31:42,916] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T00:31:44,037] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T00:31:45,147] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T00:31:46,273] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T02:31:57,402] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T05:18:16,626] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T08:04:45,755] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:15:35,734] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:15:36,893] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:15:38,047] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:15:39,152] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:15:40,266] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:15:41,385] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:15:42,500] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:15:43,624] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:15:44,745] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:42:42,210] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:42:43,354] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:42:44,469] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:42:45,584] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:42:46,698] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:42:47,812] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T09:42:48,929] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T11:02:14,657] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3017)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:02:15,700] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4083)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:02:19,846] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background operation retry gave up
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99) ~[zookeeper-3.4.8.jar:3.4.8--1]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.checkBackgroundRetry(CuratorFrameworkImpl.java:728) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:857) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:02:19,855] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background retry gave up
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:838) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:02:20,856] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3140)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:02:21,864] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4148)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:13:38,034] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3009)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:13:39,040] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4015)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:13:42,158] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background operation retry gave up
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99) ~[zookeeper-3.4.8.jar:3.4.8--1]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.checkBackgroundRetry(CuratorFrameworkImpl.java:728) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:857) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:13:42,160] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background retry gave up
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:838) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:13:44,166] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3118)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:27:56,591] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3022)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:27:57,613] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4046)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:28:09,238] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3023)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:28:10,248] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4033)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:29:19,357] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background operation retry gave up
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99) ~[zookeeper-3.4.8.jar:3.4.8--1]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.checkBackgroundRetry(CuratorFrameworkImpl.java:728) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:857) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:29:19,362] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background retry gave up
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:838) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:29:19,363] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T11:29:20,478] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T11:29:21,592] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T11:29:22,382] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3183)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T11:29:22,703] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T11:29:23,391] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4192)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T16:47:05,628] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3012)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T16:47:06,643] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4033)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:11,892] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:13,771] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3018)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:13,858] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:14,785] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4035)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:15,970] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:16,082] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:17,195] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:18,090] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background operation retry gave up
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99) ~[zookeeper-3.4.8.jar:3.4.8--1]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.checkBackgroundRetry(CuratorFrameworkImpl.java:728) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:857) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:18,098] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background retry gave up
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:838) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:18,310] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:19,097] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3297)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:19,428] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:20,108] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4308)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:20,534] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:21,647] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:21,777] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:22,893] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:24,012] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:25,130] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:25,789] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4664)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:25,827] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background operation retry gave up
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99) ~[zookeeper-3.4.8.jar:3.4.8--1]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.checkBackgroundRetry(CuratorFrameworkImpl.java:728) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:857) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:25,842] [org.apache.curator.framework.imps.CuratorFrameworkImpl] [Curator-Framework-0] [] [] [] Background retry gave up
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) ~[curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) ~[curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) ~[curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-29T20:06:26,260] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:27,382] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:28,504] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:29,627] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:30,739] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:31,851] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:32,971] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:34,111] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:35,216] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:36,322] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:37,434] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:38,549] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:39,663] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:40,765] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T20:06:41,872] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T21:22:54,946] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T21:52:18,981] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-29T23:56:08,797] [org.apache.zookeeper.ClientCnxnSocketNIO] [Curator-Framework-0-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181

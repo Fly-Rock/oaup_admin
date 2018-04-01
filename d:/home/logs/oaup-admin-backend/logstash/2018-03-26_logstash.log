@@ -1,0 +1,92 @@
+[ERROR] [2018-03-26T03:11:02,630] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T05:15:33,082] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:03:48,842] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:40,151] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:41,258] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:42,370] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:43,482] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:44,585] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:45,706] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:46,812] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:47,928] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:49,049] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:50,157] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:51,268] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:52,388] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:53,507] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:54,616] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:55,738] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:56,857] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:57,966] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:34:59,080] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:00,189] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:01,316] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:02,430] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:03,539] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:04,651] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:05,764] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:06,878] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:07,988] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:09,098] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:10,209] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:35:11,328] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:26,795] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:28,088] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:29,203] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:30,336] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:31,447] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:32,558] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:33,665] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:34,772] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:35,904] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:37,024] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:39:38,146] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:55:38,520] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:55:39,683] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:55:40,793] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T09:55:41,903] [org.apache.zookeeper.ClientCnxnSocketNIO] [main-SendThread(192.168.36.63:2181)] [] [] [] Unable to open socket to 192.168.36.63/192.168.36.63:2181
+[ERROR] [2018-03-26T11:39:52,576] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3006)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-26T12:45:09,110] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (3007)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]
+[ERROR] [2018-03-26T12:45:10,118] [org.apache.curator.ConnectionState] [Curator-Framework-0] [] [] [] Connection timed out for connection string (192.168.36.63:2181) and timeout (3000) / elapsed (4017)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:200) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:90) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117) [curator-client-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64) [curator-framework-2.11.1.jar:?]
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267) [curator-framework-2.11.1.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_141]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_141]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_141]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_141]

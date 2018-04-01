@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/com-oaup-admin-backend-webapi/com-oaup-admin-backend-webapi.iml" filepath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/com-oaup-admin-backend-webapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/oaup-admin-backend.iml" filepath="$PROJECT_DIR$/oaup-admin-backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oaup-admin-backend-api/oaup-admin-backend-api.iml" filepath="$PROJECT_DIR$/oaup-admin-backend-api/oaup-admin-backend-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/oaup-admin-backend-dao/oaup-admin-backend-dao.iml" filepath="$PROJECT_DIR$/oaup-admin-backend-dao/oaup-admin-backend-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/oaup-admin-backend-facade/oaup-admin-backend-facade.iml" filepath="$PROJECT_DIR$/oaup-admin-backend-facade/oaup-admin-backend-facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/oaup-admin-backend-integration/oaup-admin-backend-integration.iml" filepath="$PROJECT_DIR$/oaup-admin-backend-integration/oaup-admin-backend-integration.iml" />
