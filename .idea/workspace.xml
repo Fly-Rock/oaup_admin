@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6fe99e-a6f8-439f-bcb0-8f83ccdfdc11" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/product.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/document/~$商品分类.mmap.~$lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/document/商品分类（自动存储）.mmap" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/2/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/2/1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/2/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/2/2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/2/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/2/3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/4.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/5.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/6.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/7.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/8.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/10.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/11.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/12.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/13.1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/13.1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/13.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/14.1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/14.1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/14.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/15.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/16.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/4.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/5.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/6.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/7.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/8.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/9.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/客户端/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/客户端/1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/客户端/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/客户端/2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/客户端/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/客户端/3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/客户端/4.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/客户端/4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/4.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/5.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/6.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/7.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/8.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/么么帮.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/么么帮.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/启动页.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/启动页.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/图标1024×1024.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/图标1024×1024.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/新区开荒_服务订单.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/新区开荒_服务订单.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/新居开荒.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/新居开荒.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/新居开荒1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/新居开荒1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/新居开荒2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/新居开荒2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/日常保洁.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/日常保洁.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/服务时间1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/服务时间1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/服务时间2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/服务时间2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/确认订单.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/确认订单.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/订单支付.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/订单支付.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/阿姨端.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/阿姨端.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/document/商品分类.mmap" afterPath="$PROJECT_DIR$/document/商品分类.mmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/document/product.md" afterPath="$PROJECT_DIR$/document/product.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -105,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/document/product.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="519">
-                <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <first_editor relative-caret-position="180">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -118,8 +61,8 @@
         <entry file="file://$PROJECT_DIR$/document/oa_up_account_api_wiki.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <first_editor relative-caret-position="60">
+                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -969,12 +912,12 @@
       <workItem from="1521882224228" duration="5754000" />
       <workItem from="1521990663274" duration="59000" />
       <workItem from="1522486145891" duration="3005000" />
-      <workItem from="1524274936135" duration="3189000" />
+      <workItem from="1524274936135" duration="3527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42320000" />
+    <option name="totallyTimeSpent" value="42658000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1009,8 +952,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2960199" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23462088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7935323" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13805436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1310,17 +1253,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/oaup_orders_wiki.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/document/order_admin_list_manage.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1334,11 +1266,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/document/oaup_orders_wiki.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/document/oa_up_account_api_wiki.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <first_editor relative-caret-position="60">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1348,8 +1291,8 @@
     <entry file="file://$PROJECT_DIR$/document/product.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="519">
-            <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <first_editor relative-caret-position="180">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

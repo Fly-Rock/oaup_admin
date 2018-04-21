@@ -1,9 +1,13 @@
 # 详细页面结构比较复杂，可以抽象具体细节
 
 整个页面结构可以分成下面几个结构骨架：
+
 1.顶级头图展示：moduleName=top_banner(头图)
+
 2.中间内容详细介绍：moduleName=detail_text_image（图文详解）
+
 3.页面底部部分：moduleName=question（常见问题）
+
 3.页面底部部分：moduleName=customer_hot_line(客服热线)
 
 大体分成3个部分：通过moduleName来定义
@@ -13,11 +17,13 @@
 
 
 detail_reminder  ——>温馨提示
+
 detail_table     ——>表格
     table_style=a
     table_style=d
     
 detail_image     ——>图片说明
+
 detail_content   ——>文字说明
 
 
