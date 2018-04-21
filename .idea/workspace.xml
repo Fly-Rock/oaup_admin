@@ -2,22 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6fe99e-a6f8-439f-bcb0-8f83ccdfdc11" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/product.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/common/common.macro.doc.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/common/common.macro.ftl" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-test/target/test-classes/com/oaup/admin/backend/test/service/UserServiceTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/product.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/document/~$商品分类.mmap.~$lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/document/商品分类（自动存储）.mmap" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/2/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/2/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/2/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/2/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/2/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/2/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/4.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/5.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/6.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/7.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/8.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/10.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/11.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/12.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/13.1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/13.1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/13.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/14.1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/14.1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/14.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/15.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/16.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/4.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/5.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/6.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/7.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/8.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/头部-分页面/9.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/头部-分页面/9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/客户端/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/客户端/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/客户端/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/客户端/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/客户端/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/客户端/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/客户端/4.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/客户端/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/3.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/4.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/5.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/6.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/7.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/qietu/底部/8.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/么么帮.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/么么帮.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/启动页.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/启动页.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/图标1024×1024.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/图标1024×1024.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/新区开荒_服务订单.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/新区开荒_服务订单.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/新居开荒.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/新居开荒.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/新居开荒1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/新居开荒1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/新居开荒2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/新居开荒2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/日常保洁.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/日常保洁.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/服务时间1.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/服务时间1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/服务时间2.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/服务时间2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/确认订单.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/确认订单.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/订单支付.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/订单支付.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/document/degin/v1/么么帮/阿姨端.png" afterPath="$PROJECT_DIR$/document/degin/v1/cloudHome/阿姨端.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/document/商品分类.mmap" afterPath="$PROJECT_DIR$/document/商品分类.mmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d:/home/logs/oaup-admin-backend/error.log" afterPath="$PROJECT_DIR$/d:/home/logs/oaup-admin-backend/error.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d:/home/logs/oaup-admin-backend/info.log" afterPath="$PROJECT_DIR$/d:/home/logs/oaup-admin-backend/info.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d:/home/logs/oaup-admin-backend/logstash/logstash.log" afterPath="$PROJECT_DIR$/d:/home/logs/oaup-admin-backend/logstash/logstash.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-api/oaup-admin-backend-api.iml" afterPath="$PROJECT_DIR$/oaup-admin-backend-api/oaup-admin-backend-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-api/pom.xml" afterPath="$PROJECT_DIR$/oaup-admin-backend-api/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/user/admin_login.html" afterPath="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/user/admin_login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-api/target/classes/webapp/backend/template/user/admin_login.html" afterPath="$PROJECT_DIR$/oaup-admin-backend-api/target/classes/webapp/backend/template/user/admin_login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-test/oaup-admin-backend-test.iml" afterPath="$PROJECT_DIR$/oaup-admin-backend-test/oaup-admin-backend-test.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,52 +79,83 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="admin_login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/user/admin_login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+            <state relative-caret-position="220">
+              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order_admin_list_manage.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/document/order_admin_list_manage.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="product.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/document/product.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="519">
+                <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oa_up_account_api_wiki.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/oa_up_account_api_wiki.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="340">
+                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="oaup_orders.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/document/oaup_orders.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1159">
+            <state relative-caret-position="2580">
               <caret line="129" column="25" lean-forward="false" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.sql" pinned="false" current-in-tab="true">
+      <file leaf-file-name="product.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/document/product.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="114" column="0" lean-forward="true" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="146" column="38" lean-forward="false" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oaup_orders_wiki.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/oaup_orders_wiki.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -111,28 +185,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PassUserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/controller/PassUserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2880">
-              <caret line="144" column="27" lean-forward="false" selection-start-line="144" selection-start-column="27" selection-end-line="144" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -203,6 +255,7 @@
         <option value="$PROJECT_DIR$/oaup-admin-backend-api/pom.xml" />
         <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/user/admin_login.html" />
         <option value="$PROJECT_DIR$/document/product.sql" />
+        <option value="$PROJECT_DIR$/document/product.md" />
       </list>
     </option>
   </component>
@@ -244,10 +297,8 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
-    <option name="y" value="23" />
-    <option name="width" value="1145" />
-    <option name="height" value="746" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -265,6 +316,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -306,32 +359,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaup-admin-backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaup-admin-backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="document" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="degin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="v1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,6 +373,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -938,12 +968,13 @@
       <workItem from="1521800779765" duration="520000" />
       <workItem from="1521882224228" duration="5754000" />
       <workItem from="1521990663274" duration="59000" />
-      <workItem from="1522486145891" duration="2573000" />
+      <workItem from="1522486145891" duration="3005000" />
+      <workItem from="1524274936135" duration="3189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38699000" />
+    <option name="totallyTimeSpent" value="42320000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -955,7 +986,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="23" width="1145" height="746" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -974,11 +1006,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45586297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27651858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2960199" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23462088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1009,22 +1041,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/OAuthUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/common/OAuthTypes.java" />
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/BaseEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/service/OAuthUserService.java" />
     <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/service/impl/OAuthUserServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/github/GithubApi.java" />
     <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/service/OAuthServices.java" />
@@ -1167,26 +1183,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/oaup_orders_wiki.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document/oa_up_account_api_wiki.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/config/WebMvcConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -1219,7 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1227,7 +1222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1240">
           <caret line="62" column="72" lean-forward="false" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1251,9 +1245,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1261,7 +1252,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1289,11 +1279,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/user/admin_login.html">
+    <entry file="file://$PROJECT_DIR$/document/oaup_orders.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        <state relative-caret-position="2580">
+          <caret line="129" column="25" lean-forward="false" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/product.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="146" column="38" lean-forward="false" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/oaup_orders_wiki.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1302,19 +1326,33 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/oaup_orders.sql">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/user/admin_login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1159">
-          <caret line="129" column="25" lean-forward="false" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
+        <state relative-caret-position="220">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/product.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="114" column="0" lean-forward="true" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/document/oa_up_account_api_wiki.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="340">
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/product.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="519">
+            <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
