@@ -5,6 +5,29 @@
     <groupId>com.oaup.admin.backend</groupId>
     <artifactId>oaup-admin-backend</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-autoconfigure</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.hujiang.basic.framework</groupId>
+            <artifactId>hujiang-framework-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.hujiang.basic.framework</groupId>
+            <artifactId>hujiang-framework-rest</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.oaup.admin.backend</groupId>
+            <artifactId>oaup-admin-backend-service</artifactId>
+        </dependency>
+    </dependencies>
     <packaging>pom</packaging>
     <name>oaup-admin-backend</name>
     <url>http://maven.apache.org</url>
@@ -53,6 +76,7 @@
                 <artifactId>oaup-admin-backend-api</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
+
             <dependency>
                 <groupId>com.oaup.admin.backend</groupId>
                 <artifactId>oaup-admin-backend-service</artifactId>
@@ -71,16 +95,6 @@
             <dependency>
                 <groupId>com.oaup.admin.backend</groupId>
                 <artifactId>oaup-admin-backend-test</artifactId>
-                <version>1.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.oaup.admin.backend</groupId>
-                <artifactId>oaup-admin-backend-facade</artifactId>
-                <version>1.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.oaup.admin.backend</groupId>
-                <artifactId>oaup-admin-backend-integration</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
 
@@ -233,6 +247,35 @@
                     <argLine>${argLine}</argLine>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>com.hujiang.basic.framework</groupId>
+                <artifactId>hujiang-framework-builder</artifactId>
+                <!-- 版本号请去仓库中查询最新版本 -->
+                <version>1.0.1-SNAPSHOT</version>
+                <configuration>
+                    <!-- 项目生成路径 默认 该项目运行目录的target下面 -->
+                    <sourceFolderPath>${project.build.directory}</sourceFolderPath>
+                    <!-- mysql的IP地址 -->
+                    <mysqlIp>127.0.0.1</mysqlIp>
+                    <!-- mysql的端口号 -->
+                    <mysqlPort>3306</mysqlPort>
+                    <!-- mysql的数据库名称 -->
+                    <mysqlDbName>oaup_db</mysqlDbName>
+                    <!-- mysql的数据库用户名 -->
+                    <mysqlUser>root</mysqlUser>
+                    <!-- mysql的数据库密码 -->
+                    <mysqlPwd>root</mysqlPwd>
+                    <!-- mysql 表名，可多个,多个表以逗号隔开 -->
+                    <mysqlTableNames>product,product_category,product_description,product_price,product_unit_price</mysqlTableNames>
+                    <!-- 项目中文名称 -->
+                    <projectNameCn>trade_ch</projectNameCn>
+                    <!-- 项目英文名称 -->
+                    <projectNameEn>trade_en</projectNameEn>
+                    <!--项目包名 -->
+                    <packageName>com.oaup.admin.backend</packageName>
+                </configuration>
+            </plugin>
+
         </plugins>
     </build>
 
@@ -244,6 +287,5 @@
         <module>oaup-admin-backend-support</module>
         <module>oaup-admin-backend-integration</module>
         <module>oaup-admin-backend-test</module>
-        <module>com-oaup-admin-backend-webapi</module>
     </modules>
 </project>

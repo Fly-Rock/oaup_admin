@@ -5,12 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import com.hujiang.basic.framework.rest.config.service.HJundertow;
 import com.hujiang.basic.framework.rest.main.HJApplication;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.scheduling.annotation.EnableAsync;
 
-@SpringBootApplication(scanBasePackages="com.oaup.admin")
-@HJundertow
-@Slf4j
-@EnableAsync
+@SpringBootApplication(scanBasePackages = "com.oaup.admin")
+@EnableConfigurationProperties
 public class AdminStart {
 
     public static void main(String[] args) {

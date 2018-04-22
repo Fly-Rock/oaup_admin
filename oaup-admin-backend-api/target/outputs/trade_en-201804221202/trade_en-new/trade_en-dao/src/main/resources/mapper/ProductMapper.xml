@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.oaup.admin.backend.dao.ProductDao">
+	<resultMap id="BaseResultMap" type="com.oaup.admin.backend.support.model.po.Product">
+		<result column="product_id" property="productId" />
+		<result column="category_id" property="categoryId" />
+		<result column="product_alias" property="productAlias" />
+		<result column="product_name" property="productName" />
+		<result column="product_image" property="productImage" />
+		<result column="min_pay_price" property="minPayPrice" />
+		<result column="seller_id" property="sellerId" />
+		<result column="status" property="status" />
+		<result column="create_user_id" property="createUserId" />
+		<result column="update_time" property="updateTime" />
+		<result column="create_time" property="createTime" />
+	</resultMap>
+
+	<sql id="Base_Column_List_Insert">
+		 product_id, category_id, product_alias, product_name, product_image, min_pay_price, seller_id, status, create_user_id, update_time, create_time
+	</sql>
+	
+	<sql id="Base_Column_List">
+		<include refid="Base_Column_List_Insert" />
+	</sql>
+	
+	<select id="load" resultMap="BaseResultMap" parameterType="java.lang.Long">
+	
+		SELECT <include refid="Base_Column_List" /> FROM product 
+		where  product_id = #{id}
+		
+	</select>
+	
+	<!-- 查询 商品表 数据集合 -->
+	<select id="queryByPage" resultMap="BaseResultMap" parameterType="com.oaup.admin.backend.support.model.po.Product">
+		SELECT
+		<include refid="Base_Column_List" />
+		FROM product
+		<where>
+				<if test="productId != null">
+					AND product_id = #{productId}
+				</if>
+				<if test="categoryId != null">
+					AND category_id = #{categoryId}
+				</if>
+				<if test="productAlias != null">
+					AND product_alias = #{productAlias}
+				</if>
+				<if test="productName != null">
+					AND product_name = #{productName}
+				</if>
+				<if test="productImage != null">
+					AND product_image = #{productImage}
+				</if>
+				<if test="minPayPrice != null">
+					AND min_pay_price = #{minPayPrice}
+				</if>
+				<if test="sellerId != null">
+					AND seller_id = #{sellerId}
+				</if>
+				<if test="status != null">
+					AND status = #{status}
+				</if>
+				<if test="createUserId != null">
+					AND create_user_id = #{createUserId}
+				</if>
+				<if test="updateTime != null">
+					AND update_time = #{updateTime}
+				</if>
+				<if test="createTime != null">
+					AND create_time = #{createTime}
+				</if>
+		</where>
+	</select>
+	
+	<select id="query" resultMap="BaseResultMap" parameterType="com.oaup.admin.backend.support.model.po.Product">
+		SELECT
+		<include refid="Base_Column_List" />
+		FROM product
+		<where>
+				<if test="productId != null">
+					AND product_id = #{productId}
+				</if>
+				<if test="categoryId != null">
+					AND category_id = #{categoryId}
+				</if>
+				<if test="productAlias != null">
+					AND product_alias = #{productAlias}
+				</if>
+				<if test="productName != null">
+					AND product_name = #{productName}
+				</if>
+				<if test="productImage != null">
+					AND product_image = #{productImage}
+				</if>
+				<if test="minPayPrice != null">
+					AND min_pay_price = #{minPayPrice}
+				</if>
+				<if test="sellerId != null">
+					AND seller_id = #{sellerId}
+				</if>
+				<if test="status != null">
+					AND status = #{status}
+				</if>
+				<if test="createUserId != null">
+					AND create_user_id = #{createUserId}
+				</if>
+				<if test="updateTime != null">
+					AND update_time = #{updateTime}
+				</if>
+				<if test="createTime != null">
+					AND create_time = #{createTime}
+				</if>
+		</where>
+	</select>
+	
+	<!-- 修改 商品表 数据 -->
+	<update id="update" parameterType="com.oaup.admin.backend.support.model.po.Product">
+		UPDATE product
+		<set>
+				<if test="categoryId != null">
+					category_id = #{categoryId},
+				</if>
+				
+				<if test="productAlias != null">
+					product_alias = #{productAlias},
+				</if>
+				
+				<if test="productName != null">
+					product_name = #{productName},
+				</if>
+				
+				<if test="productImage != null">
+					product_image = #{productImage},
+				</if>
+				
+				<if test="minPayPrice != null">
+					min_pay_price = #{minPayPrice},
+				</if>
+				
+				<if test="sellerId != null">
+					seller_id = #{sellerId},
+				</if>
+				
+				<if test="status != null">
+					status = #{status},
+				</if>
+				
+				<if test="createUserId != null">
+					create_user_id = #{createUserId},
+				</if>
+				
+				<if test="updateTime != null">
+					update_time = #{updateTime},
+				</if>
+				
+				<if test="createTime != null">
+					create_time = #{createTime},
+				</if>
+				
+		</set>
+			where  product_id=#{productId}
+	</update>
+	
+	
+	<!-- 根据ID删除 商品表 数据 -->
+	<update id="delete" parameterType="java.lang.Long">
+		DELETE FROM  product WHERE  product_id = #{id}
+	</update>
+	
+	<!-- 添加 商品表 数据 -->
+	<insert id="insert" parameterType="com.oaup.admin.backend.support.model.po.Product" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO product (<include refid="Base_Column_List_Insert" />)
+		VALUES ( #{productId}, #{categoryId}, #{productAlias}, #{productName}, #{productImage}, #{minPayPrice}, #{sellerId}, #{status}, #{createUserId}, #{updateTime},#{createTime})
+	</insert>
+	
+	<delete id="deleteBatch" parameterType="java.util.List">
+		DELETE FROM product where 
+		product_id in 
+		<foreach collection="list"  item="item" open="(" separator="," close=")">
+			#{item.productId}
+		</foreach>
+	</delete>
+	
+	<insert id="insertBatch" parameterType="java.util.List"  useGeneratedKeys="true" keyProperty="id" >
+	
+		INSERT INTO product (<include refid="Base_Column_List_Insert" />) VALUES
+			<foreach collection="list"  item="item" separator="," >
+				 (#{item.productId},#{item.categoryId},#{item.productAlias},#{item.productName},#{item.productImage},#{item.minPayPrice},#{item.sellerId},#{item.status},#{item.createUserId},#{item.updateTime},#{item.createTime})
+			</foreach>
+	</insert>
+	
+</mapper>

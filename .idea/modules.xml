@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/com-oaup-admin-backend-webapi/com-oaup-admin-backend-webapi.iml" filepath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/com-oaup-admin-backend-webapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/oaup-admin-backend.iml" filepath="$PROJECT_DIR$/oaup-admin-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/oaup-admin-backend-dao/oaup-admin-backend-dao.iml" filepath="$PROJECT_DIR$/oaup-admin-backend-dao/oaup-admin-backend-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/oaup-admin-backend-facade/oaup-admin-backend-facade.iml" filepath="$PROJECT_DIR$/oaup-admin-backend-facade/oaup-admin-backend-facade.iml" />

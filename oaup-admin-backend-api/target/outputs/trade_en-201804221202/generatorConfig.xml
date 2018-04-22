@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" >
+<generatorConfiguration>
+	<context id="hujiang">
+		<commentGenerator>
+			<property name="suppressDate" value="true" />
+		</commentGenerator>
+		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
+			connectionURL="jdbc:mysql://127.0.0.1:3306/oaup_db"
+			userId="root" password="root" />
+		<!-- 以下是指自动生成Model代码的包名以及生成的路径 -->
+		<javaModelGenerator targetPackage="trade_en.model.gen"
+			targetProject="/Users/lichuanjie/gitcode/oaup-admin-backend/oaup-admin-backend-api/target/outputs/trade_en-201804221202/trade_en-core/trade_en-impl/src/main/java">
+			<property name="rootClass" value="BaseModel" />
+		</javaModelGenerator>
+		<!-- 以下是指自动生成Mapper代码的包名以及生成的路径 -->
+		<sqlMapGenerator targetPackage="trade_en.mapper.gen"
+			targetProject="/Users/lichuanjie/gitcode/oaup-admin-backend/oaup-admin-backend-api/target/outputs/trade_en-201804221202/trade_en-core/trade_en-impl/src/main/java" />
+		<!-- 以下是指自动生成Mapper的XML代码的包名以及生成的路径 -->
+		<javaClientGenerator targetPackage="trade_en.mapper.gen"
+			targetProject="/Users/lichuanjie/gitcode/oaup-admin-backend/oaup-admin-backend-api/target/outputs/trade_en-201804221202/trade_en-core/trade_en-impl/src/main/java" type="XMLMAPPER">
+			<property name="rootInterface" value="BaseMapper" />
+		</javaClientGenerator>
+		
+		
+		<table schema="dbo" tableName="product" domainObjectName="Product">
+			<generatedKey column="id" sqlStatement="JDBC" identity="true" />
+		</table>
+		<table schema="dbo" tableName="product_category" domainObjectName="ProductCategory">
+			<generatedKey column="id" sqlStatement="JDBC" identity="true" />
+		</table>
+		<table schema="dbo" tableName="product_description" domainObjectName="ProductDescription">
+			<generatedKey column="id" sqlStatement="JDBC" identity="true" />
+		</table>
+		<table schema="dbo" tableName="product_price" domainObjectName="ProductPrice">
+			<generatedKey column="id" sqlStatement="JDBC" identity="true" />
+		</table>
+		<table schema="dbo" tableName="product_unit_price" domainObjectName="ProductUnitPrice">
+			<generatedKey column="id" sqlStatement="JDBC" identity="true" />
+		</table>
+		
+
+	</context>
+</generatorConfiguration>

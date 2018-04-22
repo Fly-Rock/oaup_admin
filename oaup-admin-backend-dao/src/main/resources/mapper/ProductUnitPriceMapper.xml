@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.oaup.admin.backend.dao.ProductUnitPriceDao">
+	<resultMap id="BaseResultMap" type="com.oaup.admin.backend.support.model.po.ProductUnitPrice">
+		<result column="unit_price_id" property="unitPriceId" />
+		<result column="unit_name" property="unitName" />
+		<result column="status" property="status" />
+		<result column="create_user_id" property="createUserId" />
+		<result column="update_time" property="updateTime" />
+		<result column="create_time" property="createTime" />
+	</resultMap>
+
+	<sql id="Base_Column_List_Insert">
+		 unit_price_id, unit_name, status, create_user_id, update_time, create_time
+	</sql>
+	
+	<sql id="Base_Column_List">
+		<include refid="Base_Column_List_Insert" />
+	</sql>
+	
+	<select id="load" resultMap="BaseResultMap" parameterType="java.lang.Long">
+	
+		SELECT <include refid="Base_Column_List" /> FROM product_unit_price 
+		where  unit_price_id = #{id}
+		
+	</select>
+	
+	<!-- 查询 商品价格单位表 数据集合 -->
+	<select id="queryByPage" resultMap="BaseResultMap" parameterType="com.oaup.admin.backend.support.model.po.ProductUnitPrice">
+		SELECT
+		<include refid="Base_Column_List" />
+		FROM product_unit_price
+		<where>
+				<if test="unitPriceId != null">
+					AND unit_price_id = #{unitPriceId}
+				</if>
+				<if test="unitName != null">
+					AND unit_name = #{unitName}
+				</if>
+				<if test="status != null">
+					AND status = #{status}
+				</if>
+				<if test="createUserId != null">
+					AND create_user_id = #{createUserId}
+				</if>
+				<if test="updateTime != null">
+					AND update_time = #{updateTime}
+				</if>
+				<if test="createTime != null">
+					AND create_time = #{createTime}
+				</if>
+		</where>
+	</select>
+	
+	<select id="query" resultMap="BaseResultMap" parameterType="com.oaup.admin.backend.support.model.po.ProductUnitPrice">
+		SELECT
+		<include refid="Base_Column_List" />
+		FROM product_unit_price
+		<where>
+				<if test="unitPriceId != null">
+					AND unit_price_id = #{unitPriceId}
+				</if>
+				<if test="unitName != null">
+					AND unit_name = #{unitName}
+				</if>
+				<if test="status != null">
+					AND status = #{status}
+				</if>
+				<if test="createUserId != null">
+					AND create_user_id = #{createUserId}
+				</if>
+				<if test="updateTime != null">
+					AND update_time = #{updateTime}
+				</if>
+				<if test="createTime != null">
+					AND create_time = #{createTime}
+				</if>
+		</where>
+	</select>
+	
+	<!-- 修改 商品价格单位表 数据 -->
+	<update id="update" parameterType="com.oaup.admin.backend.support.model.po.ProductUnitPrice">
+		UPDATE product_unit_price
+		<set>
+				<if test="unitName != null">
+					unit_name = #{unitName},
+				</if>
+				
+				<if test="status != null">
+					status = #{status},
+				</if>
+				
+				<if test="createUserId != null">
+					create_user_id = #{createUserId},
+				</if>
+				
+				<if test="updateTime != null">
+					update_time = #{updateTime},
+				</if>
+				
+				<if test="createTime != null">
+					create_time = #{createTime},
+				</if>
+				
+		</set>
+			where  unit_price_id=#{unitPriceId}
+	</update>
+	
+	
+	<!-- 根据ID删除 商品价格单位表 数据 -->
+	<update id="delete" parameterType="java.lang.Long">
+		DELETE FROM  product_unit_price WHERE  unit_price_id = #{id}
+	</update>
+	
+	<!-- 添加 商品价格单位表 数据 -->
+	<insert id="insert" parameterType="com.oaup.admin.backend.support.model.po.ProductUnitPrice" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO product_unit_price (<include refid="Base_Column_List_Insert" />)
+		VALUES ( #{unitPriceId}, #{unitName}, #{status}, #{createUserId}, #{updateTime},#{createTime})
+	</insert>
+	
+	<delete id="deleteBatch" parameterType="java.util.List">
+		DELETE FROM product_unit_price where 
+		unit_price_id in 
+		<foreach collection="list"  item="item" open="(" separator="," close=")">
+			#{item.unitPriceId}
+		</foreach>
+	</delete>
+	
+	<insert id="insertBatch" parameterType="java.util.List"  useGeneratedKeys="true" keyProperty="id" >
+	
+		INSERT INTO product_unit_price (<include refid="Base_Column_List_Insert" />) VALUES
+			<foreach collection="list"  item="item" separator="," >
+				 (#{item.unitPriceId},#{item.unitName},#{item.status},#{item.createUserId},#{item.updateTime},#{item.createTime})
+			</foreach>
+	</insert>
+	
+</mapper>

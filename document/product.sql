@@ -68,6 +68,10 @@ INSERT INTO `product_category`
 VALUES ('擦玻璃','CBL',0,@BJFWID,1,NOW(),NOW());
 
 
+INSERT INTO `product_category`
+(`category_name`,`category_alias`,`sort`,`parent_id`,`status`,`update_time`,`create_time`)
+VALUES ('深度除螨','SDCM',0,@BJFWID,1,NOW(),NOW());
+
 ##二级分类 企业保洁
 
 SELECT category_id from `product_category` where `status` = 1 and `category_alias`='QYBJ'   limit 1 into @QYBJID;
@@ -121,7 +125,7 @@ DROP TABLE  IF EXISTS  `product`;
 CREATE TABLE `product` (
   `product_id` INT(11) unsigned NOT NULL AUTO_INCREMENT COMMENT '主键、自增',
   `category_id` INT(11) NOT NULL COMMENT '商品分类',
-  `product_alias` varchar(50) DEFAULT  COMMENT '商品别名',
+  `product_alias` varchar(50) NOT NULL DEFAULT ''  COMMENT '商品别名',
   `product_name` varchar(100) NOT NULL DEFAULT '' COMMENT '商品名称',
   `product_image` varchar(200) NOT NULL DEFAULT '' COMMENT '商品图片',
   `min_pay_price` decimal(10,2) NOT NULL DEFAULT '0.00' COMMENT '商品单价',
@@ -130,8 +134,9 @@ CREATE TABLE `product` (
   `create_user_id` bigint(20) NOT NULL COMMENT '创建用户ID',
   `update_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间',
   `create_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
-  PRIMARY KEY (`category_id`)
+  PRIMARY KEY (`product_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='商品表';
+
 
 
 DROP TABLE  IF EXISTS  `product_description`;

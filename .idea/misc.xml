@@ -8,6 +8,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/com-oaup-admin-backend-webapi/pom.xml" />
         <option value="$PROJECT_DIR$/oaup-admin-backend-api/pom.xml" />
       </set>
     </option>

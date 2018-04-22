@@ -2,8 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6fe99e-a6f8-439f-bcb0-8f83ccdfdc11" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oaup_admin_backend_oaup_admin_backend_api_1_0_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/java/com/oaup/admin/backend/webapi/controller/ProductController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/java/com/oaup/admin/backend/webapi/main/StartWebApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/java/com/oaup/admin/backend/webapi/te.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/resources/application-develop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductCategoryDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductDescriptionDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductPriceDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductUnitPriceDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/resources/mapper/ProductCategoryMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/resources/mapper/ProductDescriptionMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/resources/mapper/ProductMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/resources/mapper/ProductPriceMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/resources/mapper/ProductUnitPriceMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductBiz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductCategoryBiz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductDescriptionBiz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductPriceBiz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductUnitPriceBiz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductContentBaseBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductContentBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductContentListRowTableBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailBannerBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailCompositiveBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailImageBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailReminderBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailTableBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductTableRowBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/request/product/ProductDetailReq.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/request/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/response/product/ProductDetailResp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/response/product/ProductTopBannerResp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/response/tes1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/ProductCategory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/ProductDescription.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/ProductPrice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/ProductUnitPrice.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-facade/target/classes/com/oaup/admin/backend/service/facade/PackInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-service/target/classes/com/oaup/admin/backend/service/facade/ISystemPermissionService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-service/target/classes/com/oaup/admin/backend/service/services/Permission/SystemPermissionService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/common/PackInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/config/PackInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/model/bo/BaseEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/model/bo/OAuthUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/model/bo/PackInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/model/dto/UserIdRequest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/model/dto/UserRequest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/model/dto/UserResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/model/po/UserInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/model/po/sys/SystemPermissionPO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/target/classes/com/oaup/admin/backend/support/model/po/sys/UserModuleModel.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/facade/ISystemPermissionService.java" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/facade/ISystemPermissionService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/Permission/SystemPermissionService.java" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/Permission/SystemPermissionService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/document/product.md" afterPath="$PROJECT_DIR$/document/product.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/com-oaup-admin-backend-webapi.iml" afterPath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/com-oaup-admin-backend-webapi.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/pom.xml" afterPath="$PROJECT_DIR$/com-oaup-admin-backend-webapi/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/document/product.sql" afterPath="$PROJECT_DIR$/document/product.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-api/pom.xml" afterPath="$PROJECT_DIR$/oaup-admin-backend-api/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/main/AdminStart.java" afterPath="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/main/AdminStart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-dao/oaup-admin-backend-dao.iml" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/oaup-admin-backend-dao.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-dao/pom.xml" afterPath="$PROJECT_DIR$/oaup-admin-backend-dao/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-facade/oaup-admin-backend-facade.iml" afterPath="$PROJECT_DIR$/oaup-admin-backend-facade/oaup-admin-backend-facade.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-integration/oaup-admin-backend-integration.iml" afterPath="$PROJECT_DIR$/oaup-admin-backend-integration/oaup-admin-backend-integration.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-service/oaup-admin-backend-service.iml" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/oaup-admin-backend-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-service/pom.xml" afterPath="$PROJECT_DIR$/oaup-admin-backend-service/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/oaup-admin-backend-support.iml" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/oaup-admin-backend-support.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-support/pom.xml" afterPath="$PROJECT_DIR$/oaup-admin-backend-support/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend-test/oaup-admin-backend-test.iml" afterPath="$PROJECT_DIR$/oaup-admin-backend-test/oaup-admin-backend-test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oaup-admin-backend.iml" afterPath="$PROJECT_DIR$/oaup-admin-backend.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,90 +107,87 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="admin_login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/user/admin_login.html">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="420">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/document/product.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="oa_up_account_api_wiki.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/document/oa_up_account_api_wiki.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="oaup_orders.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/document/oaup_orders.sql">
+      <file leaf-file-name="oaup-admin-backend-dao.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/oaup-admin-backend-dao.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2580">
-              <caret line="129" column="25" lean-forward="false" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
+            <state relative-caret-position="435">
+              <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/document/product.sql">
+      <file leaf-file-name="ISystemPermissionService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/facade/ISystemPermissionService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="146" column="38" lean-forward="false" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+            <state relative-caret-position="160">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemPermissionService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/Permission/SystemPermissionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="oaup_orders_wiki.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/document/oaup_orders_wiki.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.macro.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/template/common/common.macro.ftl">
+      <file leaf-file-name="oaup-admin-backend-support.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/oaup-admin-backend-support.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="2040">
+              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.macro.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/common/common.macro.ftl">
+      <file leaf-file-name="ProductPriceDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductPriceDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oaup-admin-backend-facade.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-facade/oaup-admin-backend-facade.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="659">
+              <caret line="107" column="8" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-facade/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -123,8 +196,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.macro.doc.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/common/common.macro.doc.ftl">
+      <file leaf-file-name="oaup-admin-backend-service.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/oaup-admin-backend-service.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1265">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductUnitPriceBiz.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductUnitPriceBiz.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -139,6 +222,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -147,9 +231,14 @@
       <find>hold-transition login-page</find>
       <find>spring-boot-starter-test</find>
       <find>spring-boot-starter-parent</find>
+      <find>com-oaup-admin-backend-webapi</find>
+      <find>com.github.brevy.orm.mybatis</find>
+      <find>com.github.brevy.</find>
+      <find>com.github.brevy</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/plugins</dir>
+      <dir>$PROJECT_DIR$/oaup-admin-backend-service</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -163,42 +252,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/main/DemoStart.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/pass/login.html" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/service/OAuthServices.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/common/BaseService.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/BaseEntity.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/OAuthUser.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/service/OAuthUserService.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/common/OAuthServiceDecorator.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/sys/UserModuleModel.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/sys/SystemPermissionPO.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/UserIdRequest.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/facade/ISystemPermissionService.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/Permission/SystemPermissionService.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/User.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/UserInfo.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-test/src/test/java/com/oaup/admin/backend/test/service/UserServiceTest.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/aspect/PermissionAspect.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/config/ThreadConfig.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/application-develop.properties" />
         <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/login.html" />
         <option value="$PROJECT_DIR$/document/oaup_account.sql" />
         <option value="$PROJECT_DIR$/document/oa_up_account_api_wiki.md" />
         <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/config/WebMvcConfig.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/main/AdminStart.java" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/controller/PassUserController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/com-oaup-admin-backend-webapi/pom.xml" />
         <option value="$PROJECT_DIR$/document/oaup_orders.sql" />
         <option value="$PROJECT_DIR$/document/oaup_orders_wiki.md" />
-        <option value="$PROJECT_DIR$/oaup-admin-backend-api/pom.xml" />
         <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/user/admin_login.html" />
-        <option value="$PROJECT_DIR$/document/product.sql" />
         <option value="$PROJECT_DIR$/document/product.md" />
+        <option value="$PROJECT_DIR$/document/product.sql" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductCategoryService.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/Permission/SystemPermissionService.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductDescriptionService.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductUnitPriceBiz.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductBiz.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductCategoryBiz.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductDescriptionBiz.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductPriceBiz.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductTableRowBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductContentListRowTableBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductContentBaseBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailTableBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductContentListBlocksBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductContentBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailReminderBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailBannerBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailImageBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/response/product/ProductTopBannerResp.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/ProductDescription.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/bo/product/ProductDetailCompositiveBo.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/response/product/ProductDetailResp.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/request/product/ProductDetailReq.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductService.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/controller/PassUserController.java" />
+        <option value="$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/java/com/oaup/admin/backend/webapi/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/main/AdminStart.java" />
+        <option value="$PROJECT_DIR$/com-oaup-admin-backend-webapi/pom.xml" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/pom.xml" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-api/pom.xml" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/facade/IProductService.java" />
+        <option value="$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/java/com/oaup/admin/backend/webapi/main/StartWebApi.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/pom.xml" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductUnitPriceBiz.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/facade/IProductService.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/facade/ISystemPermissionService.java" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-support/oaup-admin-backend-support.iml" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-service/oaup-admin-backend-service.iml" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-facade/oaup-admin-backend-facade.iml" />
+        <option value="$PROJECT_DIR$/oaup-admin-backend-dao/oaup-admin-backend-dao.iml" />
       </list>
     </option>
   </component>
@@ -230,8 +334,42 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="oaup-admin-backend" />
+          <option name="myItemId" value="oaup-admin-backend-api" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="oaup-admin-backend-api" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="com-oaup-admin-backend.webapi" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Profiles" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -259,9 +397,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -284,7 +419,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="oaup-admin-backend-api" />
+              <option name="myItemId" value="oaup-admin-backend-support" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,45 +433,130 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="document" />
+              <option name="myItemId" value="oaup-admin-backend-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend-facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend-facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaup-admin-backend-dao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.30149597" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service" />
+    <property name="SONARLINT_ANALYSIS_RESULTS_SCOPE" value="VCS changed files" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend" />
-      <recent name="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources" />
-      <recent name="$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api" />
-      <recent name="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.oaup.admin.backend.support.model.dto" />
-      <recent name="com.oaup.admin.backend.support.model.po.sys" />
-      <recent name="com.oaup.admin.backend.service.facade" />
-      <recent name="com.oaup.admin.backend.service.services.Permission" />
-      <recent name="com.oaup.admin.backend.support.model.bo" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/document/degin/v1" />
       <recent name="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template" />
       <recent name="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend" />
       <recent name="$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/pass" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend" />
+      <recent name="$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/resources" />
+      <recent name="$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product" />
+      <recent name="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao" />
+      <recent name="$PROJECT_DIR$/oaup-admin-backend-dao/src/main/resources/mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oaup.admin.backend.api.controller" />
+      <recent name="com.oaup.admin.backend.support.model.dto" />
+      <recent name="com.oaup.admin.backend.support.model.po.sys" />
+      <recent name="com.oaup.admin.backend.service.facade" />
+      <recent name="com.oaup.admin.backend.service.services.Permission" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.oaup.admin.backend.api.main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -877,16 +1097,51 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <configuration default="false" name="maven-code-builder" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="com.hujiang.basic.framework:hujiang-framework-builder:builder" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/oaup-admin-backend-api" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="StartWebApi" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.oaup.admin.backend.webapi.main.StartWebApi" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="com-oaup-admin-backend-webapi" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="AdminStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.oaup.admin.backend.api.main.AdminStart" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <module name="oaup-admin-backend-api" />
+      <module name="oaup-admin-backend" />
       <envs />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.AdminStart" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Maven.maven-code-builder" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.StartWebApi" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.AdminStart" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -912,12 +1167,17 @@
       <workItem from="1521882224228" duration="5754000" />
       <workItem from="1521990663274" duration="59000" />
       <workItem from="1522486145891" duration="3005000" />
-      <workItem from="1524274936135" duration="3527000" />
+      <workItem from="1524274936135" duration="13839000" />
+      <workItem from="1524384912962" duration="979000" />
+      <workItem from="1524385915039" duration="9233000" />
+      <workItem from="1524396085338" duration="3799000" />
+      <workItem from="1524400080378" duration="929000" />
+      <workItem from="1524401243541" duration="755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42658000" />
+    <option name="totallyTimeSpent" value="68665000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -935,7 +1195,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18168813" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2918455" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -943,26 +1203,26 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35968378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50870645" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711443" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17910448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.539801" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7935323" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13805436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40128756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40974966" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -984,221 +1244,253 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/service/impl/OAuthUserServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/github/GithubApi.java" />
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/service/OAuthServices.java" />
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/entity/OAuthUser.java" />
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/facade/IUser.java" />
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/oauth/common/OAuthServiceDecorator.java" />
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/sys/UserModuleModel.java">
+    <entry file="file://$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/resources/application-develop.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/sys/SystemPermissionPO.java">
+    <entry file="file://$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/UserIdRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/facade/ISystemPermissionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/UserDao.java" />
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/UserService.java" />
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/controller/UserController.java" />
-    <entry file="jar://$USER_HOME$/oaup/repository/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="48" column="29" lean-forward="false" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-test/src/test/java/com/oaup/admin/backend/test/service/UserServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/Permission/SystemPermissionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="33" column="60" lean-forward="false" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/oaup/repository/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/ui/Model.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/oaup/repository/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/oaup/repository/com/hujiang/basic/framework/hujiang-framework-model/2.0.1-RELEASE/hujiang-framework-model-2.0.1-RELEASE.jar!/com/hujiang/basic/framework/rest/model/DataResult.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121">
-          <caret line="85" column="36" lean-forward="false" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/aspect/PermissionAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1810">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document/oaup_account.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="21" column="58" lean-forward="false" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/oaup-admin-backend-api.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2344">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-facade/src/main/java/com/oaup/admin/backend/service/facade/PackInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/aspect/ContextHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/annotation/Permisson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/config/ThreadConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/config/WebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/main/AdminStart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        <state relative-caret-position="2660">
+          <caret line="133" column="23" lean-forward="false" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com-oaup-admin-backend-webapi/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="196">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/config/ViewFilterConfig.java">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-integration/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-oaup-admin-backend">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-oaup-admin-backend</OriginalElement>
+          <nodes>
+            <node x="0.0" y="79.0">mdl-oaup-admin-backend-dao</node>
+            <node x="40.45833333333337" y="158.0">mdl-oaup-admin-backend-service</node>
+            <node x="83.9791666666666" y="0.0">mdl-oaup-admin-backend</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="mdl-oaup-admin-backend-service" target="mdl-oaup-admin-backend-dao">
+              <point x="0.0" y="-14.5" />
+              <point x="174.45833333333337" y="133.0" />
+              <point x="186.0" y="133.0" />
+              <point x="62.0" y="14.5" />
+            </edge>
+            <edge source="mdl-oaup-admin-backend" target="mdl-oaup-admin-backend-service">
+              <point x="54.75000000000006" y="14.5" />
+              <point x="248.22916666666666" y="54.0" />
+              <point x="258.5" y="54.0" />
+              <point x="258.5" y="133.0" />
+              <point x="263.79166666666663" y="133.0" />
+              <point x="89.33333333333326" y="-14.5" />
+            </edge>
+            <edge source="mdl-oaup-admin-backend-dao" target="mdl-oaup-admin-backend-service">
+              <point x="-62.0" y="14.5" />
+              <point x="62.0" y="133.0" />
+              <point x="85.12500000000006" y="133.0" />
+              <point x="-89.33333333333331" y="-14.5" />
+            </edge>
+            <edge source="mdl-oaup-admin-backend" target="mdl-oaup-admin-backend-dao">
+              <point x="-54.74999999999994" y="14.5" />
+              <point x="138.72916666666666" y="54.0" />
+              <point x="124.0" y="54.0" />
+              <point x="0.0" y="-14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="41.0" y="224.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductPriceBiz.java" />
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/facade/ISystemPermissionService.java" />
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductDescriptionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/ProductCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductService.java" />
+    <entry file="jar://$USER_HOME$/oaup/repository/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/stereotype/Service.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/request/product/ProductDetailReq.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/dto/UserIdRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/oaup/repository/com/hujiang/basic/framework/hujiang-framework-model/2.0.1-RELEASE/hujiang-framework-model-2.0.1-RELEASE.jar!/com/hujiang/basic/framework/rest/model/BaseUserRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/src/main/java/com/oaup/admin/backend/support/model/po/ProductPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/services/product/ProductDescriptionBiz.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductCategoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/oaup/repository/com/hujiang/basic/framework/hujiang-framework-dao/2.1.1.2-RELEASE/hujiang-framework-dao-2.1.1.2-RELEASE.jar!/com/hujiang/basic/framework/dao/annotation/MyBatisRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/main/AdminStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/java/com/oaup/admin/backend/webapi/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/oaup/repository/com/hujiang/basic/framework/hujiang-framework-model/2.0.1-RELEASE/hujiang-framework-model-2.0.1-RELEASE.jar!/com/hujiang/basic/framework/rest/model/DataResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="107" column="5" lean-forward="false" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com-oaup-admin-backend-webapi/src/main/java/com/oaup/admin/backend/webapi/main/StartWebApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/freemarker.properties">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/controller/ProductController.java" />
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/application-develop.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="62" column="72" lean-forward="false" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        <state relative-caret-position="600">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2880">
-          <caret line="144" column="27" lean-forward="false" selection-start-line="144" selection-start-column="27" selection-end-line="144" selection-end-column="27" />
+        <state relative-caret-position="5760">
+          <caret line="288" column="35" lean-forward="false" selection-start-line="288" selection-start-column="35" selection-end-line="288" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/java/com/oaup/admin/backend/api/controller/PassUserController.java">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/facade/IProductService.java" />
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/test.java" />
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/gtes.java" />
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/tgest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/template/common/common.macro.ftl">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductCategoryBiz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1206,7 +1498,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/common/common.macro.ftl">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductDescriptionBiz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1214,7 +1506,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/common/common.macro.doc.ftl">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductPriceBiz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1222,80 +1514,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/oaup_orders.sql">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductBiz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2580">
-          <caret line="129" column="25" lean-forward="false" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document/degin/v1/cloudHome/qietu/底部/1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document/product.sql">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="146" column="38" lean-forward="false" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/order_admin_list_manage.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-api/src/main/resources/webapp/backend/template/user/admin_login.html">
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/product/ProductUnitPriceBiz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/oaup_orders_wiki.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/service/com/oaup/admin/backend/service/facade/service/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/oa_up_account_api_wiki.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/Permission/SystemPermissionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/product.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/src/main/java/com/oaup/admin/backend/facade/ISystemPermissionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-support/oaup-admin-backend-support.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/src/main/java/com/oaup/admin/backend/dao/ProductPriceDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-facade/oaup-admin-backend-facade.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="107" column="8" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-facade/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-dao/oaup-admin-backend-dao.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oaup-admin-backend-service/oaup-admin-backend-service.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1265">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1374,11 +1695,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>com-oaup-admin-backend-webapi</last-edited>
+          <last-edited>oaup-admin-backend-service</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.30149597" />
                 <option value="0.6" />
               </list>
             </option>

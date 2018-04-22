@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.oaup.admin.backend.dao.ProductCategoryDao">
+	<resultMap id="BaseResultMap" type="com.oaup.admin.backend.support.model.po.ProductCategory">
+		<result column="category_id" property="categoryId" />
+		<result column="category_name" property="categoryName" />
+		<result column="category_alias" property="categoryAlias" />
+		<result column="sort" property="sort" />
+		<result column="parent_id" property="parentId" />
+		<result column="status" property="status" />
+		<result column="update_time" property="updateTime" />
+		<result column="create_time" property="createTime" />
+	</resultMap>
+
+	<sql id="Base_Column_List_Insert">
+		 category_id, category_name, category_alias, sort, parent_id, status, update_time, create_time
+	</sql>
+	
+	<sql id="Base_Column_List">
+		<include refid="Base_Column_List_Insert" />
+	</sql>
+	
+	<select id="load" resultMap="BaseResultMap" parameterType="java.lang.Long">
+	
+		SELECT <include refid="Base_Column_List" /> FROM product_category 
+		where  category_id = #{id}
+		
+	</select>
+	
+	<!-- 查询 商品类型配置表 数据集合 -->
+	<select id="queryByPage" resultMap="BaseResultMap" parameterType="com.oaup.admin.backend.support.model.po.ProductCategory">
+		SELECT
+		<include refid="Base_Column_List" />
+		FROM product_category
+		<where>
+				<if test="categoryId != null">
+					AND category_id = #{categoryId}
+				</if>
+				<if test="categoryName != null">
+					AND category_name = #{categoryName}
+				</if>
+				<if test="categoryAlias != null">
+					AND category_alias = #{categoryAlias}
+				</if>
+				<if test="sort != null">
+					AND sort = #{sort}
+				</if>
+				<if test="parentId != null">
+					AND parent_id = #{parentId}
+				</if>
+				<if test="status != null">
+					AND status = #{status}
+				</if>
+				<if test="updateTime != null">
+					AND update_time = #{updateTime}
+				</if>
+				<if test="createTime != null">
+					AND create_time = #{createTime}
+				</if>
+		</where>
+	</select>
+	
+	<select id="query" resultMap="BaseResultMap" parameterType="com.oaup.admin.backend.support.model.po.ProductCategory">
+		SELECT
+		<include refid="Base_Column_List" />
+		FROM product_category
+		<where>
+				<if test="categoryId != null">
+					AND category_id = #{categoryId}
+				</if>
+				<if test="categoryName != null">
+					AND category_name = #{categoryName}
+				</if>
+				<if test="categoryAlias != null">
+					AND category_alias = #{categoryAlias}
+				</if>
+				<if test="sort != null">
+					AND sort = #{sort}
+				</if>
+				<if test="parentId != null">
+					AND parent_id = #{parentId}
+				</if>
+				<if test="status != null">
+					AND status = #{status}
+				</if>
+				<if test="updateTime != null">
+					AND update_time = #{updateTime}
+				</if>
+				<if test="createTime != null">
+					AND create_time = #{createTime}
+				</if>
+		</where>
+	</select>
+	
+	<!-- 修改 商品类型配置表 数据 -->
+	<update id="update" parameterType="com.oaup.admin.backend.support.model.po.ProductCategory">
+		UPDATE product_category
+		<set>
+				<if test="categoryName != null">
+					category_name = #{categoryName},
+				</if>
+				
+				<if test="categoryAlias != null">
+					category_alias = #{categoryAlias},
+				</if>
+				
+				<if test="sort != null">
+					sort = #{sort},
+				</if>
+				
+				<if test="parentId != null">
+					parent_id = #{parentId},
+				</if>
+				
+				<if test="status != null">
+					status = #{status},
+				</if>
+				
+				<if test="updateTime != null">
+					update_time = #{updateTime},
+				</if>
+				
+				<if test="createTime != null">
+					create_time = #{createTime},
+				</if>
+				
+		</set>
+			where  category_id=#{categoryId}
+	</update>
+	
+	
+	<!-- 根据ID删除 商品类型配置表 数据 -->
+	<update id="delete" parameterType="java.lang.Long">
+		DELETE FROM  product_category WHERE  category_id = #{id}
+	</update>
+	
+	<!-- 添加 商品类型配置表 数据 -->
+	<insert id="insert" parameterType="com.oaup.admin.backend.support.model.po.ProductCategory" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO product_category (<include refid="Base_Column_List_Insert" />)
+		VALUES ( #{categoryId}, #{categoryName}, #{categoryAlias}, #{sort}, #{parentId}, #{status}, #{updateTime},#{createTime})
+	</insert>
+	
+	<delete id="deleteBatch" parameterType="java.util.List">
+		DELETE FROM product_category where 
+		category_id in 
+		<foreach collection="list"  item="item" open="(" separator="," close=")">
+			#{item.categoryId}
+		</foreach>
+	</delete>
+	
+	<insert id="insertBatch" parameterType="java.util.List"  useGeneratedKeys="true" keyProperty="id" >
+	
+		INSERT INTO product_category (<include refid="Base_Column_List_Insert" />) VALUES
+			<foreach collection="list"  item="item" separator="," >
+				 (#{item.categoryId},#{item.categoryName},#{item.categoryAlias},#{item.sort},#{item.parentId},#{item.status},#{item.updateTime},#{item.createTime})
+			</foreach>
+	</insert>
+	
+</mapper>

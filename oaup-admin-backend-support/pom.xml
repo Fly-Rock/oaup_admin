@@ -19,10 +19,7 @@
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>com.oaup.admin.backend</groupId>
-			<artifactId>oaup-admin-backend-facade</artifactId>
-		</dependency>
+
         <dependency>
             <groupId>com.hujiang.basic.framework</groupId>
             <artifactId>hujiang-framework-model</artifactId>

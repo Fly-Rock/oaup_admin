@@ -11,6 +11,25 @@
 
     <groupId>com.oaup.admin.backend.webapi</groupId>
     <artifactId>com-oaup-admin-backend.webapi</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-beans</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>com.oaup.admin.backend</groupId>
+            <artifactId>oaup-admin-backend-support</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.oaup.admin.backend</groupId>
+            <artifactId>oaup-admin-backend-service</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.hujiang.basic.framework</groupId>
+            <artifactId>hujiang-framework-rest</artifactId>
+        </dependency>
+    </dependencies>
 
 
 </project>

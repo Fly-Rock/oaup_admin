@@ -19,16 +19,9 @@
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>com.oaup.admin.backend</groupId>
-			<artifactId>oaup-admin-backend-support</artifactId>
-		</dependency>
+
 		
-		<dependency>
-			<groupId>com.hujiang.basic.framework</groupId>
-			<artifactId>hujiang-framework-dao</artifactId>
-		</dependency>
-		
+
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
@@ -38,6 +31,14 @@
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>sqljdbc4</artifactId>
         </dependency>
+		<dependency>
+			<groupId>com.oaup.admin.backend</groupId>
+			<artifactId>oaup-admin-backend-support</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.oaup.admin.backend</groupId>
+			<artifactId>oaup-admin-backend-support</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
